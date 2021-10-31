@@ -1,0 +1,14 @@
+.prompt_container {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+#main_prompt {
+    font-size: 5vmin;
+
+    height: 90vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
